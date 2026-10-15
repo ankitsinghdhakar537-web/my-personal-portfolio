@@ -1,3 +1,7 @@
-My Personal Portfolio
+# My Personal Portfolio
 
-🌐 Live Portfolio Website
+A responsive personal portfolio website showcasing my skills, projects, and resume.
+
+## 🌐 Live Demo
+
+🔗 https://ankitsinghdhakar537-web.github.io/my-personal-portfolio/
